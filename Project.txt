@@ -1,0 +1,16 @@
+Dears,
+Implement a project in C++ using the concept we have covered in class.
+The project should include the following concept
+Class *
+Static
+Inheritance *
+Composition
+Polymorphism *
+Operator Overloading
+File Handling *
+Exception Handling
+Note:
+At least use 6 of the above concepts
+Concepts in Bold are Mandatory
+You have to use good programming practices and highlight at least five good programming practices from your project.
+The weight of this project is 8.

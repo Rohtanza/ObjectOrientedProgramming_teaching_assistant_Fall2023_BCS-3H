@@ -1,0 +1,48 @@
+1.
+                Understand string data type
+                Difference between char[X], char*
+                Also, study these methods
+                variable.size()
+                variable.length()
+                sizeof(variable)
+                Also, add at least two other methods
+
+2.
+                You have been assigned the task of developing a Student Management System for a university. The system should be able to store information about students and their courses.
+                1) Create a “Student” class with the following attributes:
+                Student ID (int)
+                Name (string)
+                Total students enrolled (int)
+                2) Create a “Course” class with the following attributes:
+                Course Code (string)
+                Name (string)
+                3) Create a relationship between the “Student” class and the “Course” class. A student can be enrolled in multiple courses. Use pointers to dynamically allocate memory for students' courses.
+
+
+                4) Implement functions in the “Student” class to enroll a student in a course and display the list of courses in which the student is enrolled.
+
+                5) In the “main()” function, demonstrate the functionality by creating student and course objects, enrolling students in courses, and displaying the enrolled courses for each student.
+
+
+3.
+                Dears,
+
+                Overload any eight operators from the given list
+                Multiplication (*)
+                Modulo (%)
+                Post-increment (++)
+                Post-decrement (--)
+                Division assignment (/=)
+                Equal to (==)
+                Not equal to (!=)
+                Greater than or equal to (>=)
+                Logical OR (||)
+                Bitwise AND (&)
+                Bitwise XOR (^)
+                Right shift (>>)
+                Array subscript ([])
+                Stream insertion (<<)
+                Stream extraction (>>)
+                Equal to (==)
+
+
